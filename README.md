@@ -1,2 +1,5 @@
-# Hugging_Face
-Practicing Hugging Face Open Source Models
+Hugging_Face Exploration
+Exploring Hugging Face's Open Source Models.
+
+Objectives
+Experiment with various models, contribute findings.
