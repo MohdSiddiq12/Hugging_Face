@@ -9,6 +9,6 @@ Exploring Hugging Face's Open Source Models.
 
 ## Usage
 
-Explore, use, contribute!
+Explore, use, contribute! 
  
 Happy exploring! 🚀
