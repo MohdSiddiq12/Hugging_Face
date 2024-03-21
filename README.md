@@ -5,7 +5,7 @@ Exploring Hugging Face's Open Source Models.
 ## Objectives
 
 - Experiment with various models
-- Contribute findings
+- Contribute findings  
 
 ## Usage
 
