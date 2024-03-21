@@ -1,6 +1,6 @@
 # Hugging_Face Exploration 
 
-Exploring Hugging Face's Open Source Models. 
+Exploring Hugging Face's Open Source Models.
 
 ## Objectives
 
