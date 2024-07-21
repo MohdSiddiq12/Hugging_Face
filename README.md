@@ -1,14 +1,14 @@
-# Hugging_Face Exploration
+# Hugging_Face Exploration 
 
 Exploring Hugging Face's Open Source Models.
 
 ## Objectives
 
 - Experiment with various models
-- Contribute findings
+- Contribute findings  
 
 ## Usage
 
-Explore, use, contribute!
+Explore, use, contribute! 
  
 Happy exploring! 🚀
